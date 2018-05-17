@@ -13,4 +13,6 @@ Fantasy Coin is an IOS app that uses a mock investment system and several source
 - PostgreSQL
 - Heroku 
 
-### Backend Code: 
+### Backend Code: https://github.com/Chalked/fantasy-coin-backend
+
+Created in 2018 by Zackary Moore
